@@ -3,10 +3,10 @@
 The objective of this exam is to assess your ability as a Project Manager with Scrum principles to plan and manage a 6-sprint project for the development of a Unified Communication Platform. You will be evaluated on your ability to create an Agile board, plan sprints, and allocate tasks to team members.
 You are given the following resources:
 
-1.Backend Teams
-  VoIP: 5 persons
-  Data: 5 persons
-  Unified: 5 persons
+1. Backend Teams
+    VoIP: 5 persons
+    Data: 5 persons
+    Unified: 5 persons
 2. Mobile Team: 4 persons
 3. Front Web: 4 persons
 4. DevOps: 3 persons
